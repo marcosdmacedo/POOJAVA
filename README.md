@@ -1,6 +1,4 @@
 # POOJAVA
 
 
-Jezuix é vc god?? :():
-
-só teste
+Ondé que eu tô meu Deuxduceu!
