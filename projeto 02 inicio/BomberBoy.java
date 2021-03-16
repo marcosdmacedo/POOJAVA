@@ -6,7 +6,7 @@ public class BomberBoy{
     int vida; 
     int nPassos; 
     int forca;
-    // ESTILO BOMBERMAN, só um pouco menos complexo. :( 
+    // ESTILO BOMBERMAN, sï¿½ um pouco menos complexo. :( 
 
     BomberBoy(int vida, int nPassos , int forca) {
         this.vida = vida;
@@ -14,9 +14,9 @@ public class BomberBoy{
         this.forca = forca;
     }
 
-    void andar() { //métodos -> comportamento 
+    void andar() { //metodos -> comportamento 
         if(vida > 0){
-            System.out.println("tô vivo meu irmão!");
+            System.out.println("tÃ´ vivo meu irmÃ£oo!");
             nPassos -= 1;
             return;
         }
@@ -24,7 +24,7 @@ public class BomberBoy{
             System.out.println("bora andar!");
         }
         if(forca > 0){
-            System.out.println("to com força");
+            System.out.println("to com forÃ§a");
         }
         else{
             System.out.println("to morto"); 
@@ -45,10 +45,9 @@ public class BomberBoy{
         vida += 1;
         nPassos -= 1;
     }
-
     //metodo que informa como o meu objeto deve ser convertido para Texto
     public String toString() {
-        return "BomberBoy : Passos:" + nPassos + " Vidas:" + vida + " Força:" + forca;
+        return "BomberBoy : Passos:" + nPassos + " Vidas:" + vida + " Forï¿½a:" + forca;
     }
 
     public static void main( String[]args ) {
@@ -77,5 +76,5 @@ public class BomberBoy{
         baguera.descansar();
         baguera.andar();
         System.out.println(baguera);
-}
+    }
 }

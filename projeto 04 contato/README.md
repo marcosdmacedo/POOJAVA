@@ -1,15 +1,15 @@
 # POOJAVA
 ## :one: O QUE FEZ?
-Fiz o projeto "CamaElastica", espero esta "that's ok"; :sweat_smile:, Onde pude algo novo, cada projeto, algo novo aprendo.
+Fiz o projeto "TOPIK", Onde pude algo novo, cada projeto, algo novo aprendo, com muito sofrimento rsrs.
 
 ## :two: COM QUEM FIZ?
-Fiz sozinho, porém, pesquisei muito e pedi ajuda por fora!
+Fiz sozinho, entre aspas, pedi ajuda para um amigo de S.I, em algumas partes do código, alguns erros que estava dando, a gente fez um liveshare, foi um momento de aprendizado.
 
 ## :three: COMO FEZ?
-Tive dificuldade na parte do while e public static, porém, foi tranquilo fazer toda a estrutura de metodos, parametros e atributos. mais ainda preciso de muita pratica.
+Tive dificuldade na parte de identação do código, logo no começo, pessei que ia desistir, quando a main não estava dando certo, quando meu amigo também não sabia de onde vinha o erro, mais ai depois de esfriar a cabeça, vimos o problema, embaixo do nosso nariz, tive dificuldade no equals e queb, mais depois peguei a manha.
 
 ## :fuor: O QUE APRENDEU E O QUE TEVE DIFICULDADE?
-Cara, além de não está disponibilizando tempo suficiente para a disciplina, por estar atolado de coisas por fora, enfim, vai da certo, pedi ajuda, pesquisei, dificuldade a fazer testes também, espero tá 100% meu código, e justamente, o que eu tive mais contato e pude aprender a fazer.
+ Aprendi a parte de queb, e como tive um grande problema com a main, pude aprender muito, problemas bestas com identações e pude aprender a otimizar meus codigos, usei o get e o set.
 
 ## :five: QUANTO TEMPO LEVOU?
-Entre pesquisa, ajuda, testes, compensão, comparação de códigos, para assim ter certeza que o meu código tava "that´s ok" foi pode se dizer, 3 horas!
+Entre pesquisa, ajuda, testes, compensão, comparação de códigos, para assim ter certeza que o meu código tava "that´s ok" foi pode se dizer, 7 horas! pois, foi uma derrota por cima de outra até dá certo.
